@@ -72,6 +72,6 @@ Usage
 3.	Refresh Data: The data automatically updates when you search for a new city.
 
 Contact
-•	Your Name - @ronisha-shigdel - ronishashigdel@gmail.com
+•	Ronisha Shigdel - @ronisha-shigdel - ronishashigdel@gmail.com
 •	Project Link: https://github.com/ronisha-shigdel/ai-powered-weather-app
 
